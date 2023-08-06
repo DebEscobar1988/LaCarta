@@ -1,0 +1,14 @@
+
+.header{
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  margin: 50px auto ;
+  border-bottom: 2px rgba(177, 177, 177, 0.568) solid;
+
+}
+
+header h1, header h2{
+  padding: 10px 0;
+ 
+}
